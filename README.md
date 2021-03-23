@@ -16,3 +16,7 @@
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
 
+
+link to my repo
+
+https://github.com/JainMridul82/MiniProject_Template/edit/master/README.md
