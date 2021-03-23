@@ -38,7 +38,7 @@ error_t complex_multiply(complex_t *cnum1, complex_t *cnum2, complex_t *csum)
     return SUCCESS;
 }
 
-error_t complex_diff(complex_t *cnum1, complex_t *cnum2, complex_t *csum)
+error_t complex_division(complex_t *cnum1, complex_t *cnum2, complex_t *csum)
 {
     if (NULL == cnum1 || NULL == cnum2)
         return ERROR_NULL_PTR;
